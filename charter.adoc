@@ -1,8 +1,8 @@
-= { New Group Name } { New Group Type } Charter
+= High Performance I/O Special Interest Group Charter
 
 == Introduction
 
-The {New Group Name} {New Group Type} aims to [INSERT CLEAR, CONCISE OVERALL MISSION STATEMENT IN 2-3 SENTENCES].
+The High Performance I/O Special Interest Group (SIG), established within the SoC Infrastructure HC, is tasked with conducting a comprehensive analysis of high-performance I/O frameworks across networking, storage, and accelerated compute applications, with a particular emphasis on RISC-V architecture. The primary goal is to methodically identify, document, and address existing deficiencies and areas ripe for enhancement, focusing on key metrics such as bandwidth, throughput, latency, and power efficiency.
 
 == Definitions (Optional)
 
